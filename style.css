@@ -1,0 +1,40 @@
+body{
+  background-color: rgb(160, 17, 4);
+  background-image: url(astolfo.jpg);
+  background-size: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.cartao{
+  width: 50%;
+  background-color: rgba(134, 32, 32, 0.579);
+  margin: auto;
+  border-style: solid;
+  border-color: black;
+  border-radius: 15%;
+}
+
+img{
+    width: 200px;
+    margin-top: 40px;
+    border-radius: 45px;
+}
+p{
+  color: rgb(240, 183, 78);
+}
+h1{
+  color: burlywood;
+}
+h2{
+  color: wheat;
+}
+i{
+  color: sandybrown;
+}
+a{
+  text-decoration: none;
+}
+
